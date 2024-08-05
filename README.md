@@ -1,8 +1,4 @@
-# Citi-Forage-TSD-simulation
-
-Citi ICG Technology Software Development Job Simulation on Forage - July 2024
-
-
+# Citi ICG Technology Software Development Job Simulation on Forage - July 2024
  * Completed a job simulation involving hypothetical tasks to improve Citi's
    loan management system and stock market risk reporting
  * Created a state diagram of the loan management process using the Unified
